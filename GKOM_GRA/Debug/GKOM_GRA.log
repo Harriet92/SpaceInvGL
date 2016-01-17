@@ -1,0 +1,17 @@
+﻿  world.cpp
+  texLoader.cpp
+e:\projekty\studiamgr\gkom\spaceinvgl\gkom_gra\texloader.cpp(15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  alien.cpp
+  player.cpp
+  main.cpp
+  Input.cpp
+e:\projekty\studiamgr\gkom\spaceinvgl\gkom_gra\input.hpp(12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  GuiRenderer.cpp
+  GameState.cpp
+  Camera.cpp
+  bullet.cpp
+  AlienManager.cpp
+  Generating Code...
+AlienManager.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  GKOM_GRA.vcxproj -> E:\Projekty\StudiaMGR\GKOM\SpaceInvGL\Debug\GKOM_GRA.exe

@@ -1,5 +1,5 @@
 #include "GuiRenderer.hpp"
-#include "glut.h"
+#include "GL/glut.h"
 #include "Camera.hpp"
 #include "world.hpp"
 

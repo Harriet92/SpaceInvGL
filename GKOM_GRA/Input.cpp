@@ -1,5 +1,5 @@
 #include "Input.hpp"
-#include "glut.h"
+#include "GL/glut.h"
 #include "Camera.hpp"
 
 int Input::move = 0;

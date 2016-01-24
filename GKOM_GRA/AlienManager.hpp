@@ -1,6 +1,6 @@
 #pragma once
 #include <list>
-#include "glut.h"
+#include "GL/glut.h"
 #include "alien.hpp"
 #include "bullet.hpp"
 

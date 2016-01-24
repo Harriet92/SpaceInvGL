@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include "player.hpp"
-#include "glut.h"
+#include "GL/glut.h"
 #include "GameState.hpp"
 
 Player::Player() : texture() {

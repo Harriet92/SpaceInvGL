@@ -1,6 +1,6 @@
 #pragma once
 
-#include "glut.h"
+#include "GL/glut.h"
 #include "texloader.hpp"
 
 class Alien {

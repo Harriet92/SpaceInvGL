@@ -1,5 +1,5 @@
 #include "world.hpp"
-#include "glut.h"
+#include "GL/glut.h"
 
 
 World::World() {
